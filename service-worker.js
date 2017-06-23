@@ -1,7 +1,7 @@
 /**
  * Created by prakashn on 22/06/2017.
  */
-var cacheName = 'my-dynamic-site-v' + '2';
+var cacheName = 'my-dynamic-site-v' + '3';
 
 self.addEventListener('install', function(event) {
     "use strict";
