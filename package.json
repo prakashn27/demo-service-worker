@@ -9,7 +9,8 @@
   },
   "author": "Prakash N",
   "license": "MIT",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "express": "^4.15.3"
   }
 }
