@@ -1,6 +1,6 @@
-## Demo Service Worker
+## Offline Material Design
 ```$xslt
-This project demonstrates the custome built version of service worker using material design
+This project demonstrates the custome built version of service worker using material design. It works offline by caching resource.
 ```
 [Demo](https://fir-service-worker.firebaseapp.com/)
 

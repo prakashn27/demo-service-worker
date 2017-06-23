@@ -1,5 +1,5 @@
 {
-  "name": "service-worker_demo",
+  "name": "offline-material-design",
   "version": "1.0.0",
   "description": "Demo for template of service worker",
   "main": "app.js",
