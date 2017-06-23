@@ -7,7 +7,7 @@
     "test": "echo \"test is not needed.\"",
     "start": "node server.js"
   },
-  "author": "prakash n",
+  "author": "Prakash N",
   "license": "MIT",
   "dependencies": {
     "express": "^4.15.3"
